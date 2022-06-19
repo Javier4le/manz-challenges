@@ -1,4 +1,4 @@
-# manzdev-challenges
+# ManzDev Challenges
 
 >🌍 **URL**: *https://lenguajejs.com/retos/*
 
