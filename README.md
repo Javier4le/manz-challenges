@@ -4,4 +4,4 @@
 
 ## Description
 
-This is a repository that stores the development of all ManzDev challenges.
+This is a repository that stores the development of all @ManzDev challenges.
