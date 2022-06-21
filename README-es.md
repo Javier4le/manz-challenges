@@ -1,6 +1,6 @@
-<p align="right">Language: English | <a href="README-es.md">Español</a></p>
+<p align="right">Language: <a href="README.md">English</a> | Español</p>
 
-<h1 align="center">ManzDev Challenges</h1>
+<h1 align="center">Retos de ManzDev</h1>
 
 <p align="center">
 <a href="#">
@@ -22,27 +22,26 @@
 
 ---
 
-![imagen](https://user-images.githubusercontent.com/38696273/174712614-aac59cae-21a4-4b9e-ac6b-47a31f921baf.png)
+![imagen](https://user-images.githubusercontent.com/38696273/174712682-57dee4c9-d98b-4df5-b284-cf68641ac40d.png)
 
 ---
 
 <br/>
 
-## Description
+## Descripción
 
-This is a repository that stores the development of all @ManzDev challenges.
+Este repositorio almacena el desarrollo de todos los retos de @ManzDev.
 >🌍 **URL**: *https://lenguajejs.com/retos/*
 
 <br/>
 
-## Challenges
+## Retos
 
+### Nivel Fácil
+- [ ] [Tarjeta de Usuario/Basic Card](https://lenguajejs.com/retos/nivel-facil/basic-card/)
 
-### Easy Level
-- [ ] [User Card/Basic Card](https://lenguajejs.com/retos/nivel-facil/basic-card/)
-
-### Medium Level
+### Nivel Medio
 - [ ] [Bingo](https://lenguajejs.com/retos/nivel-medio/bingo/)
 - [ ] [Music MP3 Player](https://lenguajejs.com/retos/nivel-medio/mp3-player/)
 
-### Advanced Level
+### Nivel Avanzado
