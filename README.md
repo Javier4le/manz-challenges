@@ -39,11 +39,17 @@ This is a repository that stores the development of all <a href="https://github.
 
 
 ### Easy Level
-- [X] [User Card/Basic Card](https://lenguajejs.com/retos/nivel-facil/basic-card/)
+
+| N° | Challenge | Link | Technologies | Completed |
+|---|----------------|--------------|-------------|:--:|
+| **#1** | [User Card/Basic Card](https://lenguajejs.com/retos/nivel-facil/basic-card/) | [GitHubPages](https://javier4le.github.io/manzdev-retos-basic-card/) | HTML, CSS | ✅ |
 
 ### Medium Level
-- [ ] [Bingo](https://lenguajejs.com/retos/nivel-medio/bingo/)
-- [ ] [Music MP3 Player](https://lenguajejs.com/retos/nivel-medio/mp3-player/)
+
+| N° | Challenge | Link | Technologies | Completed |
+|---|----------------|--------------|-------------|:--:|
+| **#1** | [Bingo](https://lenguajejs.com/retos/nivel-medio/bingo/) | [GitHubPages]() | HTML, CSS, JS, DOM | ⬜️ |
+| **#2** | [Music MP3 Player](https://lenguajejs.com/retos/nivel-medio/mp3-player/) | [GitHubPages]() | HTML, CSS, JS, DOM | ⬜️ |
 
 ### Advanced Level
 (soon...)
