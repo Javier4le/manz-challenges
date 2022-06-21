@@ -30,7 +30,7 @@
 
 ## Descripción
 
-Este repositorio almacena el desarrollo de todos los retos de @ManzDev.
+Este repositorio almacena el desarrollo de todos los retos de <a href="https://github.com/ManzDev">@ManzDev</a> en submódulos de Git.
 >🌍 **URL**: *https://lenguajejs.com/retos/*
 
 <br/>
@@ -38,10 +38,11 @@ Este repositorio almacena el desarrollo de todos los retos de @ManzDev.
 ## Retos
 
 ### Nivel Fácil
-- [ ] [Tarjeta de Usuario/Basic Card](https://lenguajejs.com/retos/nivel-facil/basic-card/)
+- [x] [Tarjeta de Usuario/Basic Card](https://lenguajejs.com/retos/nivel-facil/basic-card/)
 
 ### Nivel Medio
 - [ ] [Bingo](https://lenguajejs.com/retos/nivel-medio/bingo/)
 - [ ] [Music MP3 Player](https://lenguajejs.com/retos/nivel-medio/mp3-player/)
 
 ### Nivel Avanzado
+(pronto...)
