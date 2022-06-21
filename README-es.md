@@ -38,11 +38,17 @@ Este repositorio almacena el desarrollo de todos los retos de <a href="https://g
 ## Retos
 
 ### Nivel Fácil
-- [x] [Tarjeta de Usuario/Basic Card](https://lenguajejs.com/retos/nivel-facil/basic-card/)
+
+| N° | Reto | Enlace | Tecnologías | Completado |
+|---|----------------|--------------|-------------|:--:|
+| **#1** | [Tarjeta de Usuario/Basic Card](https://lenguajejs.com/retos/nivel-facil/basic-card/) | [GitHubPages](https://javier4le.github.io/manzdev-retos-basic-card/) | HTML, CSS | ✅ |
 
 ### Nivel Medio
-- [ ] [Bingo](https://lenguajejs.com/retos/nivel-medio/bingo/)
-- [ ] [Music MP3 Player](https://lenguajejs.com/retos/nivel-medio/mp3-player/)
+
+| N° | Reto | Enlace | Tecnologías | Completado |
+|---|----------------|--------------|-------------|:--:|
+| **#1** | [Bingo](https://lenguajejs.com/retos/nivel-medio/bingo/) | [GitHubPages]() | HTML, CSS, JS, DOM | ⬜️ |
+| **#2** | [Music MP3 Player](https://lenguajejs.com/retos/nivel-medio/mp3-player/) | [GitHubPages]() | HTML, CSS, JS, DOM | ⬜️ |
 
 ### Nivel Avanzado
 (pronto...)
