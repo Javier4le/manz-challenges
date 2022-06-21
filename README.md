@@ -3,14 +3,20 @@
 <h1 align="center">ManzDev Challenges</h1>
 
 <p align="center">
+<a href="#">
+  <img src="https://img.shields.io/badge/--E34F26?logo=html5&logoColor=fff" alt="HTML">
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/--1572B6?logo=css3&logoColor=fff" alt="CSS">
+</a>
+<a href="https://www.javascript.com/">
+  <img src="https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
+</a>
 <a href="https://code.visualstudio.com/">
   <img src="https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff" alt="Visual Studio Code">
 </a>
 <a href="https://git-scm.com/">
   <img src="https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff" alt="Git">
-</a>
-<a href="https://www.javascript.com/">
-  <img src="https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
 </a>
 </p>
 
